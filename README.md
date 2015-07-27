@@ -1,0 +1,1 @@
+A simple way to use ActiveMQ queues in scala projects
