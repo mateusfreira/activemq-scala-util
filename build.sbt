@@ -9,7 +9,7 @@ resolvers += "typesafe" at "http://repo.typesafe.com/typesafe/snapshots/"
 
 libraryDependencies ++= Seq(
    "javax.jms" % "jms" % "1.1" % "compile" from "http://www.datanucleus.org/downloads/maven2/javax/jms/jms/1.1/jms-1.1.jar",
-   "org.apache.activemq" % "activemq-core" % "5.5.1",
+   "org.apache.activemq" % "activemq-core" % "5.5.1"  % "compile",
    "org.specs2" %% "specs2" % "1.12.3" % "test",
    	"org.slf4j" % "slf4j-log4j12" %	"1.5.6"
 )
