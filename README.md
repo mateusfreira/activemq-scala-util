@@ -28,5 +28,6 @@ Create a object to be enqueue and dequeue objects
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-## Helpful links
+
+##Helpful links
 [ActiveMQ instalation guide](http://activemq.apache.org/installation.html)
