@@ -3,9 +3,9 @@
 A simple way to use ActiveMQ queues in scala projects
 
 # How to use!
-Create a manaer sample
+Create a manager sample
 ```scala
-    val manager = QueueManager("tcp://localhost:61616")//you need to change tcp://localhost:61616 by you activeMe server url.
+    val manager = QueueManager("tcp://localhost:61616")//you need to change tcp://localhost:61616 by you activeMQ server url.
 ```
 Create a object to be enqueue and dequeue objects
 
